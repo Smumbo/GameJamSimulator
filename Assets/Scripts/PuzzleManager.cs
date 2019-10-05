@@ -9,15 +9,12 @@ public class PuzzleManager : MonoBehaviour
     private float deltaX;
     private float deltaY;
 
-    public Grid grid;
-
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         collider = GetComponent<Collider2D>();
-        grid = GetComponent<Grid>();
     }
 
     // Update is called once per frame

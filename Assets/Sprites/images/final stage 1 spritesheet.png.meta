@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: 11c6b1929fe114359bad86691a79c7c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5975299723628844730
+    second: final stage 1 spritesheet_0
+  - first:
+      213: -3570679034871553470
+    second: final stage 1 spritesheet_1
+  - first:
+      213: -9050998327047422679
+    second: final stage 1 spritesheet_2
+  - first:
+      213: -9159705029670347281
+    second: final stage 1 spritesheet_3
+  - first:
+      213: 9100191695908758335
+    second: final stage 1 spritesheet_4
+  - first:
+      213: 5831314357823884612
+    second: final stage 1 spritesheet_5
+  - first:
+      213: -5877717090402566053
+    second: final stage 1 spritesheet_6
+  - first:
+      213: -1720636539789701797
+    second: final stage 1 spritesheet_7
+  - first:
+      213: 3384187379993910180
+    second: final stage 1 spritesheet_8
+  - first:
+      213: -6249344937191474437
+    second: final stage 1 spritesheet_9
+  - first:
+      213: 2694992239850936935
+    second: final stage 1 spritesheet_10
+  - first:
+      213: 7057706286283477192
+    second: final stage 1 spritesheet_11
+  - first:
+      213: 2948501232146211771
+    second: final stage 1 spritesheet_12
+  - first:
+      213: 7470219429463183950
+    second: final stage 1 spritesheet_13
+  - first:
+      213: -3140620992797009352
+    second: final stage 1 spritesheet_14
+  - first:
+      213: 8617407043631985256
+    second: final stage 1 spritesheet_15
+  - first:
+      213: 699119680085782008
+    second: final stage 1 spritesheet_16
+  - first:
+      213: 3578845548440450263
+    second: final stage 1 spritesheet_17
+  - first:
+      213: 7804146751942444418
+    second: final stage 1 spritesheet_18
+  - first:
+      213: 7296137812225082469
+    second: final stage 1 spritesheet_19
+  - first:
+      213: 7425695542509867851
+    second: final stage 1 spritesheet_20
+  - first:
+      213: 8722754629601533006
+    second: final stage 1 spritesheet_21
+  - first:
+      213: -4104081704588941469
+    second: final stage 1 spritesheet_22
+  - first:
+      213: -8705279732663101288
+    second: final stage 1 spritesheet_23
+  - first:
+      213: 1343350300736399290
+    second: final stage 1 spritesheet_24
+  - first:
+      213: 1753994395794783174
+    second: final stage 1 spritesheet_25
+  - first:
+      213: -4627355810670270747
+    second: final stage 1 spritesheet_26
+  - first:
+      213: -8485816420615160706
+    second: final stage 1 spritesheet_27
+  - first:
+      213: -269264724332114470
+    second: final stage 1 spritesheet_28
+  - first:
+      213: 1073292753851360487
+    second: final stage 1 spritesheet_29
+  - first:
+      213: 8983561341289248794
+    second: final stage 1 spritesheet_30
+  - first:
+      213: -2284878059350603225
+    second: final stage 1 spritesheet_31
+  - first:
+      213: 6453592542660143284
+    second: final stage 1 spritesheet_32
+  - first:
+      213: -3239390287243918989
+    second: final stage 1 spritesheet_33
+  - first:
+      213: 5097059476077200268
+    second: final stage 1 spritesheet_34
+  - first:
+      213: 6201036235382633131
+    second: final stage 1 spritesheet_35
+  - first:
+      213: -5475845182695228986
+    second: final stage 1 spritesheet_36
+  - first:
+      213: 5467412585318599943
+    second: final stage 1 spritesheet_37
+  - first:
+      213: -4203540126079909217
+    second: final stage 1 spritesheet_38
+  - first:
+      213: 5506891527118800397
+    second: final stage 1 spritesheet_39
+  - first:
+      213: 7082213631872838336
+    second: final stage 1 spritesheet_40
+  - first:
+      213: 2316842803372690562
+    second: final stage 1 spritesheet_41
+  - first:
+      213: -4232053952520942179
+    second: final stage 1 spritesheet_42
+  - first:
+      213: -4806241699164768384
+    second: final stage 1 spritesheet_43
+  - first:
+      213: -3105432117334711733
+    second: final stage 1 spritesheet_44
+  - first:
+      213: 5071903806257230883
+    second: final stage 1 spritesheet_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4747
+        width: 505
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb98e68f934749939e28c18d782cb2a
+      internalID: 5975299723628844730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 4747
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1f1258c0574175a0f4b0e7691e897
+      internalID: -3570679034871553470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 4747
+        width: 107
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9287aa98efca48b4ac708eb9aa4388a
+      internalID: -9050998327047422679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 4747
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c77aa9022b40ff942ac443a75e4ff
+      internalID: -9159705029670347281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4747
+        width: 308
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a771c251a9641a9932d51ef2ed3a59
+      internalID: 9100191695908758335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 4547
+        width: 105
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1f1b8adea74bf79f2137d16240458
+      internalID: 5831314357823884612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 4647
+        width: 207
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23eb38b42f94c57a0fc8c991a2cd07
+      internalID: -5877717090402566053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 4747
+        width: 505
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64245da1fa3cd4c11bc2f847029cdff6
+      internalID: -1720636539789701797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 4747
+        width: 208
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3ff175760a4cc29dba236114dc15e
+      internalID: 3384187379993910180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 4747
+        width: 105
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c61e5e36face45918f253634653d437
+      internalID: -6249344937191474437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 4747
+        width: 207
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb6909fbf794fbe92e4edf4bc7b6a4
+      internalID: 2694992239850936935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4747
+        width: 305
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235969901d53417bbe042a8fc1ce296
+      internalID: 7057706286283477192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 4547
+        width: 105
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035ee995a265440fa7400da0bcab010
+      internalID: 2948501232146211771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 4647
+        width: 208
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de3144374d146529fefb13c979d6fe
+      internalID: 7470219429463183950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4308
+        width: 605
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb392ec88164ca3a880d8a03a26a96
+      internalID: -3140620992797009352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 4218
+        width: 405
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf1f6841fcd24c5185fbb7c874fcb3d
+      internalID: 8617407043631985256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 4408
+        width: 108
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647fc557cb11d4f188de025894ab309f
+      internalID: 699119680085782008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 4408
+        width: 205
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb2345aab0224fbeba92d4f64be11cb
+      internalID: 3578845548440450263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 4498
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65da9723d06743b8ad39ff0157326f1
+      internalID: 7804146751942444418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 4308
+        width: 606
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368633419bae48c78e217291deb06b0
+      internalID: 7296137812225082469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 4218
+        width: 405
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f24b61dc8e4a3989597b794030cc4
+      internalID: 7425695542509867851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 4408
+        width: 105
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7bb96451d0493bb45fa742eec06b2
+      internalID: 8722754629601533006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 4408
+        width: 205
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b55e763cacf41b6bd30d627e23c314
+      internalID: -4104081704588941469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 4498
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b06cd5afe5246c5b0e569ced85e8c9
+      internalID: -8705279732663101288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 4157
+        width: 308
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f6ce10459624b6b82601a2cc948815
+      internalID: 1343350300736399290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 4147
+        width: 305
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65025dfd2b4040b69d2a4874fae1e43
+      internalID: 1753994395794783174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 4157
+        width: 305
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ddc56c15d214db3950eb9cb5d88123
+      internalID: -4627355810670270747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 4147
+        width: 308
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5e0fd835bd426f94ae9d8f0e6070f
+      internalID: -8485816420615160706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3846
+        width: 505
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd0fa388ce1416092921b22fe6c317
+      internalID: -269264724332114470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 3846
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da899a529fbe4811ac1dc6faafcb851
+      internalID: 1073292753851360487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3846
+        width: 107
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c9c30598d9f433ea82b12cc02c30f3
+      internalID: 8983561341289248794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 3846
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a8f7e5978c04cceb645d99ac1574fd
+      internalID: -2284878059350603225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3846
+        width: 308
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f02308513f8462382083794df0ce81
+      internalID: 6453592542660143284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3646
+        width: 105
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e931fca405438fab2dca12ed78d34
+      internalID: -3239390287243918989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3746
+        width: 207
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb047e72cdb124db7b23119d477da422
+      internalID: 5097059476077200268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 3827
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cbd232b92c849b7884a36ba91e0e5d
+      internalID: 6201036235382633131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3407
+        width: 605
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d26382e4bd40afab973f264efe8bb
+      internalID: -5475845182695228986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 3317
+        width: 405
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c508fc16659472d8057627f4816590
+      internalID: 5467412585318599943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3507
+        width: 108
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b837a63cfa4f8eb575d99e2eb5995
+      internalID: -4203540126079909217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 3507
+        width: 205
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b7c1d781e84b1b969f3df73f0e8a6
+      internalID: 5506891527118800397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3597
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cfe609f8edd46e9826db0f3014bdfa
+      internalID: 7082213631872838336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3258
+        width: 308
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09337a8d48e7a45b8b62e18d844107d9
+      internalID: 2316842803372690562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3248
+        width: 305
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d13a566d270145f3a5265629f980e12
+      internalID: -4232053952520942179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2428
+        width: 406
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06267ce15748248f1b67f1afc27d862a
+      internalID: -4806241699164768384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2428
+        width: 605
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954566c6bd2b4a00aed27dbbde79bb9
+      internalID: -3105432117334711733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final stage 1 spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2428
+        width: 605
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402665b12ae5d47169a38fbf7284e799
+      internalID: 5071903806257230883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
