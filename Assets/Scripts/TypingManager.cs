@@ -13,7 +13,6 @@ public class TypingManager : MonoBehaviour
 
     void Start()
     {
-        line = new Line("void Start()");
         cursor.text = "|";
         toType.text = line.text;
     }
@@ -39,8 +38,7 @@ public class TypingManager : MonoBehaviour
         {
             Debug.Log("TYPED : " + line.text);
         }
-            
-        
+
         userInput.text = typing;
         cursor.text = "";
         for (int i = 1; i < typing.Length; i++)
@@ -69,6 +67,7 @@ public class Line
 
     public string read(char c)
     {
+        // backspace
         if (c.Equals('\b'))
         {
             if (curChar > 0)
@@ -77,7 +76,8 @@ public class Line
             }
             hasTyped = hasTyped.Substring(0, curChar);
         }
-        else if (curChar < text.Length)
+        // add characters
+        else
         {
             curChar++;
             hasTyped += c;

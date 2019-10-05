@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 48921043ca7cc0f43943269122283a23
+guid: 3762a7cd9f15ebf4e866dbe0a01f11ab
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,9 +8,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: DejaVu Sans Mono
+  fontName: Charybdis
   fontNames:
-  - DejaVu Sans Mono
+  - Charybdis
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
