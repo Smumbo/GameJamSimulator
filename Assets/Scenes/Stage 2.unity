@@ -383,7 +383,7 @@ PrefabInstance:
     - target: {fileID: 4667047133551980024, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: -487.00003
+      value: -486.00003
       objectReference: {fileID: 0}
     - target: {fileID: 4667047133551980024, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
@@ -393,7 +393,7 @@ PrefabInstance:
     - target: {fileID: 4667047133551980024, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -86.500015
+      value: -87.000015
       objectReference: {fileID: 0}
     - target: {fileID: 4667047133551980024, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
@@ -403,7 +403,7 @@ PrefabInstance:
     - target: {fileID: 4667047133551980007, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
       propertyPath: m_Text
-      value: '|'
+      value: "\u2502"
       objectReference: {fileID: 0}
     - target: {fileID: 4667047133551980007, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
@@ -419,12 +419,12 @@ PrefabInstance:
     - target: {fileID: 4667047135114003468, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -100
+      value: -85
       objectReference: {fileID: 0}
     - target: {fileID: 4667047135114003468, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: -520
+      value: -490
       objectReference: {fileID: 0}
     - target: {fileID: 4667047135114003468, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
@@ -510,7 +510,7 @@ PrefabInstance:
     - target: {fileID: 4667047134529677150, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}
       propertyPath: m_Text
-      value: 
+      value: ' xampl'
       objectReference: {fileID: 0}
     - target: {fileID: 4667047134529677150, guid: fec9717916ada1147a438f338b285a7c,
         type: 3}

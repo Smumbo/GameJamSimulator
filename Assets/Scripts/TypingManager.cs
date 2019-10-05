@@ -13,8 +13,9 @@ public class TypingManager : MonoBehaviour
 
     void Start()
     {
-        cursor.text = "|";
+        cursor.text = "│";
         toType.text = line.text;
+        userInput.text = "";
     }
 
     void Update()
@@ -45,7 +46,7 @@ public class TypingManager : MonoBehaviour
         {
             cursor.text += " ";
         }
-        cursor.text += "|";
+        cursor.text += "│";
     }
 }
 
