@@ -14,10 +14,10 @@ public class TypingManager : MonoBehaviour
     void Start()
     {
         line = new Line("void Start()");
+        cursor.text = "|";
         toType.text = line.text;
     }
 
-    // Update is called once per frame
     void Update()
     {
         string input = Input.inputString;
@@ -31,7 +31,7 @@ public class TypingManager : MonoBehaviour
         // If we are typing, check typed character
         string typing = "";
         char c = input[0];
-        string typed = line.continueText(c);
+        string typed = line.read(c);
         typing += typed + "\n";
 
         // If we typed the whole word
@@ -67,7 +67,7 @@ public class Line
         curChar = 0;
     }
 
-    public string continueText(char c)
+    public string read(char c)
     {
         if (c.Equals('\b'))
         {
