@@ -40,6 +40,6 @@ public class PuzzleManager : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        joint.connectedBody = collision.otherRigidbody;
+        joint.connectedBody = collision.rigidbody;
     }
 }
