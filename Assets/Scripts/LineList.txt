@@ -1,4 +1,12 @@
 void Start()
 2 + 2 = 4 - 1 = 3 // quick maffs
 // this works but I don't know why
-flickNipple(int times);
+int yeah = 1 / 0 // this might cause errors
+veryCoolFunctionCall();
+tooManyParameters(Transform me, Vector3 chicken, GameObject useThis);
+petDog();
+petDogAgain();
+List<Cat> cats = new List<>();
+class WaitNO {
+int easyMoney;
+boolean TrueTrue = false;
