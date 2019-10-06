@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5826716983366677785}
   - component: {fileID: 5369540459490699887}
   - component: {fileID: -5495910609855059681}
+  - component: {fileID: -5344924871082554935}
   m_Layer: 0
   m_Name: red5
   m_TagString: Untagged
@@ -125,3 +126,24 @@ PolygonCollider2D:
       - {x: 1.5347064, y: -1.0285378}
       - {x: 1.5591204, y: -0.9797096}
       - {x: 1.5591204, y: 1.0466576}
+--- !u!50 &-5344924871082554935
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5799273645147604366}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0

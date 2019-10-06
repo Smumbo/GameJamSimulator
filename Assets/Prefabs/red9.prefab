@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2895433278361059668}
   - component: {fileID: 6756877972393085429}
   - component: {fileID: 6560164952410629422}
+  - component: {fileID: 4859973117993356540}
   m_Layer: 0
   m_Name: red9
   m_TagString: Untagged
@@ -130,3 +131,24 @@ PolygonCollider2D:
       - {x: 2.050566, y: -2.4244933}
       - {x: 2.050566, y: -0.5446106}
       - {x: 2.0017378, y: -0.4957825}
+--- !u!50 &4859973117993356540
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038035456488469066}
+  m_BodyType: 2
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
