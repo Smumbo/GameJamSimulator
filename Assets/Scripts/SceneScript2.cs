@@ -19,7 +19,13 @@ public class SceneScript2 : MonoBehaviour
             Application.Quit();
         }
 
-        if(Input.GetKey(KeyCode.UpArrow)){
+        //go back to previous scene
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            SceneManager.LoadScene("Stage 1");
+        }
+
+        if (Input.GetKey(KeyCode.UpArrow)){
             //restart scene
                 SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
             

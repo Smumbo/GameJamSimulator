@@ -24,8 +24,13 @@ public class SceneScript1 : MonoBehaviour
             SceneManager.LoadScene("Stage 2");
         }
 
+        //go back to previous scene
+        if(Input.GetKey(KeyCode.LeftArrow)){
+            SceneManager.LoadScene("Title Screen");
+        }
+
         //restart scene
-        if(Input.GetKey(KeyCode.R)){
+        if(Input.GetKey(KeyCode.UpArrow)){
             SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
         }
     }
