@@ -38,8 +38,6 @@ public class PuzzleManager : MonoBehaviour
         transform.position = new Vector2(Mathf.RoundToInt(curPostion.x), Mathf.RoundToInt(curPostion.y));
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        joint.connectedBody = collision.otherRigidbody;
-    }
+
+
 }
