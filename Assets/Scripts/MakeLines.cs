@@ -1,14 +1,22 @@
-﻿using System.Collections;
+﻿using System;
+using System.IO;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class MakeLines : MonoBehaviour
 {
     List<TypingManager> lines;
+    string[] logFile;
 
     void Start()
     {
         lines = new List<TypingManager>();
+        logFile = File.ReadAllLines("Assets/Scripts/LineList.txt");
+        for (int i = 0; i < logFile.Length; i++)
+        {
+            Debug.Log(logFile[i]);
+        }
         newManager();
     }
 
@@ -19,14 +27,8 @@ public class MakeLines : MonoBehaviour
 
     public void newManager()
     {
-        newManager("void Start()");
-    }
-
-    public void newManager(string line)
-    {
-        TypingManager tm = new TypingManager();
-        tm.line = line;
-        lines.Add(tm);
+        var r = new System.Random();
+        int randomLineIndex = r.Next(0, logFile.Length - 1);
+        string randomLine = logFile[randomLineIndex];
     }
 }
-

@@ -20,6 +20,7 @@ public class TypingManager : MonoBehaviour
         userInput.text = "";
         readText = true;
         parent = transform.parent.GetComponent<MakeLines>();
+        
     }
 
     void Update()
@@ -66,14 +67,12 @@ public class TypingManager : MonoBehaviour
 public class Line
 {
     public string text;
-    public UnityEvent onTyped;
     string hasTyped;
     int curChar;
 
     public Line(string t)
     {
         text = t;
-        onTyped = new UnityEvent();
         hasTyped = "";
         curChar = 0;
     }
