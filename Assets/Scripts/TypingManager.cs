@@ -10,16 +10,24 @@ public class TypingManager : MonoBehaviour
     public Text cursor;
     public Text toType;
     public Text userInput;
+    bool readText;
+    MakeLines parent;
 
     void Start()
     {
         cursor.text = "│";
         toType.text = line.text;
         userInput.text = "";
+        readText = true;
+        parent = transform.parent.GetComponent<MakeLines>();
     }
 
     void Update()
     {
+        if (!readText)
+        {
+            return;
+        }
         string input = Input.inputString;
 
         // If we aren't typing, do nothing
@@ -31,15 +39,19 @@ public class TypingManager : MonoBehaviour
         // If we are typing, check typed character
         string typing = "";
         char c = input[0];
+        if (Input.GetKey(KeyCode.Return))
+        {
+            Debug.Log("TYPED : " + line.text);
+            Debug.Log("MISTAKES: " + line.getMistakes());
+            cursor.text = "";
+            readText = false;
+            parent.newManager();
+            return;
+        }
         string typed = line.read(c);
         typing += typed + "\n";
 
-        // If we typed the whole word
-        if (typed.Equals(line.text))
-        {
-            Debug.Log("TYPED : " + line.text);
-        }
-
+        // Update display
         userInput.text = typing;
         cursor.text = "";
         for (int i = 1; i < typing.Length; i++)
@@ -84,5 +96,27 @@ public class Line
             hasTyped += c;
         }
         return hasTyped;
+    }
+
+    public int getMistakes()
+    {
+        int mistakes = 0;
+        for (int i = 0; i < text.Length; i++)
+        {
+            if (i >= hasTyped.Length)
+            {
+                mistakes += text.Length - hasTyped.Length;
+                break;
+            }
+            else if (!hasTyped[i].Equals(text[i]))
+            {
+                mistakes += 1;
+            }
+        }
+        if (hasTyped.Length > text.Length)
+        {
+            mistakes += hasTyped.Length - text.Length;
+        }
+        return mistakes;
     }
 }
