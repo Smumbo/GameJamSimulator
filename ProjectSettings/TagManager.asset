@@ -14,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - tiles
   - 
   - 
   - 
@@ -42,6 +42,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: pieces
+  - name: tiles
     uniqueID: 1918291925
     locked: 0
