@@ -8,14 +8,12 @@ public class PuzzleManager : MonoBehaviour
     private Collider2D collider;
     private float deltaX;
     private float deltaY;
-    private FixedJoint2D joint;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         collider = GetComponent<Collider2D>();
-        joint = GetComponent<FixedJoint2D>();
     }
 
     // Update is called once per frame
@@ -38,6 +36,9 @@ public class PuzzleManager : MonoBehaviour
         transform.position = new Vector2(Mathf.RoundToInt(curPostion.x), Mathf.RoundToInt(curPostion.y));
     }
 
-
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        collision.gameObject.transform.position = transform.position;
+    }
 
 }
